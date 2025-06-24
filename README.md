@@ -1,1 +1,1 @@
-# fubotvactivation
+# fubo.tv/connect
