@@ -8,7 +8,8 @@ Learn how to activate FuboTV quickly by entering your code at fubo.tv/connect. F
 
 .. image:: activatenow.png
    :alt: fubo.tv/connect
-   :target: https://fm.ci?aHR0cHM6Ly9mdWJvdHYtaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://sites.google.com/view/fubotvconnect-help/
+
 
 ========================================
 How to Activate FuboTV with Code at fubo.tv/connect (2025 Guide)
